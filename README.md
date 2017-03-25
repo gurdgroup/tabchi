@@ -1,18 +1,11 @@
-# [TabChi v4](https://t.me/tgMember)
+# [channel](https://t.me/gpyab)
 
 
 the best bot in telegram for broadcasting and add member. The open and decompile version of tabchi bot. base in new telegram-cli.
 
 ***
 
-[![https://github.com/tgMember/Tabchi](https://img.shields.io/badge/license-AGPL-blue.svg)](https://github.com/tgMember/Tabchi)
-[![http://t.me/sajjad_021](https://img.shields.io/badge/Telegram-sajjad__021-blue.svg)](http://t.me/sajjad_021)
-[![https://github.com/tgMember/Tabchi](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-Tabchi-green.svg)](https://github.com/tgMember/Tabchi)
-[![http://tgmember.cf](https://img.shields.io/badge/webpage-tgMember-ff69b4.svg)](http://tgmember.cf)
-
-[![https://t.me/tgMember](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/tgMember)
-
-<p align="center"> <img class="td" style="vertical-align: middle;" src="https://memberplus.gq/tg2.png" alt="" width="500" height="260" /></p>
+ /></p>
 
 TeleGram-CLI based broadcasting bot!
 
@@ -74,8 +67,8 @@ for see instruction and command, send /help method in your bot.
 
 ## Developers
 
-## [open and edit by (sajjad_021)](https://t.me/sajjad_021)
-## [channel (tgMember)](https://t.me/tgMember)
+## [open and edit by (mostafa)](https://t.me/m_o_s_t_a_f_a_a_g_h_a)
+## [channel (gpyab)](https://t.me/gpyab)
 
 
 Enjoy Your tabchi Bot!
